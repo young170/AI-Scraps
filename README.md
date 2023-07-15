@@ -1,5 +1,3 @@
-# AI-HW1
-
 # AI-related Scraps
 ___
 ## HW1
